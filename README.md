@@ -47,12 +47,3 @@ Event Listeners
 
 - on
 - off
-
-
-
-
-
-
-- You'll want to include an overview of the project as well as code examples illustrating its use
-
-- If your project is a library, you must include documentation for the public API
